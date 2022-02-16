@@ -1,4 +1,4 @@
-PART 1:Step by step directions on downloading and using Webstorm
+PART 1: Step by step directions on downloading and using Webstorm
 
 To start off, I have downloaded Webstorm from, https://www.jetbrains.com/webstorm/download/#section=windows
 
