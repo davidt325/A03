@@ -1,6 +1,4 @@
-PART 1: Directions on Using Webstorm.
-
-Add a step by step set of directions. Include URLs of any downloaded software.
+PART 1:Step by step directions on downloading and using Webstorm
 
 To start off, I have downloaded Webstorm from, https://www.jetbrains.com/webstorm/download/#section=windows
 
@@ -25,9 +23,7 @@ then clicked on commit and push, so that the  file is sent to my GitHub reposito
 
 I have successfully committed this file and everything seems to work perfectly.
 
-Part 2: Glossary to include these terms in a bulleted list.
-
-Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
+Part 2: Glossary to include these terms in a bulleted list.  Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 
 • **Branch** - a unique set of code changes with a unique name
 
@@ -55,3 +51,7 @@ to match that content
 • **Remote** - a Git repository that's hosted on the Internet or another network
 
 • **Repository** -  A directory or storage space where your projects can live.
+
+References used:
+www.google.com
+https://njit.instructure.com/courses/21544/files/3171214?module_item_id=687829
